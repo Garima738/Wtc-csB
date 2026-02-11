@@ -102,22 +102,31 @@
 // });
 
 
-//consider a following js program it main tain two array ui team and flutterteam
+// //consider a following js program it main tain two array ui team and flutterteam
 
-// Two arrays
-const uiTeam = ["HTML", "CSS", "JavaScript"];
-const flutterTeam = ["Dart", "Flutter", "Firebase"];
+// // Two arrays
+// const uiTeam = ["HTML", "CSS", "JavaScript"];
+// const flutterTeam = ["Dart", "Flutter", "Firebase"];
 
 
-function showMenu() {
+// function showMenu() {
    
-    const mergedTeam = [...uiTeam, ...flutterTeam];
-    return mergedTeam;
-}
+//     const mergedTeam = [...uiTeam, ...flutterTeam];
+//     return mergedTeam;
+// }
 
 
-const result = showMenu();
-console.log(result);
+// const result = showMenu();
+// console.log(result);
+
+
+
+
+
+
+
+
+
 
 
 
