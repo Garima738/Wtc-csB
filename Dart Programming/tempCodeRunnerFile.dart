@@ -1,8 +1,6 @@
+// int main(){
+//   String? name = null;
 
-
-void main( List<String> arguments){
-
-  int score = 23;
-  print(score);
-
-}
+// 	String nameToPrint = name ?? "Guest User";
+// 	print(nameToPrint);
+// }
